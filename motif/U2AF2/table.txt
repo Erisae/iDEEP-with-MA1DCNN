@@ -1,0 +1,17 @@
+               consensus  annotation     ic    mean     std
+0          GACUACGCUCAAU       CPEB2   2.63  0.1397  0.1857
+1          CCCACCACGCUCA           .   2.51  0.1468  0.1957
+2          CUCGGUCAUCACA       RBM41   3.82  0.1688  0.2224
+3          GGUGCCAAUGGCU           .   1.46  0.1776  0.2302
+4          CUUGCCGCCGGUU         HuR   1.22  0.1759  0.2316
+5          AAGUCGAUUUUCC           .   2.91  0.1803  0.2390
+6          CGACAAUUCGACU       CPEB2   1.48  0.1694  0.2342
+7          GUGUCCGCGCGGA           .   1.66  0.1791  0.2462
+8          GGGCACAGGGGAA     HNRNPH2   0.50  0.1842  0.2552
+9          UGUCCGCAUACAU           .   3.74  0.1901  0.2632
+10         AUUUUUUUUUAGG         HuR   2.07  0.1912  0.2635
+11         UGCAUUAAGGGAG           .   1.94  0.1916  0.2645
+12         GCUAAUUAGUAAC           .   1.15  0.1925  0.2650
+13         ACACGUGGGCUUC       CPEB4   1.98  0.1926  0.2649
+14         CUUCGCGCGGAUG           .   1.68  0.1938  0.2660
+15         CAGGUACUAGAAA           .   2.41  0.1941  0.2659
